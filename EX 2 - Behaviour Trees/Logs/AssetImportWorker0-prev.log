@@ -1,0 +1,92 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16311 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\VAM Apps\Unity\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/VAM Arquivo/2-2/AI/EX 2 - Behaviour Trees/Panda BT
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61818
+Successfully changed project path to: D:/VAM Arquivo/2-2/AI/EX 2 - Behaviour Trees/Panda BT
+D:/VAM Arquivo/2-2/AI/EX 2 - Behaviour Trees/Panda BT
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path D:/VAM Apps/Unity/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/VAM Arquivo/2-2/AI/EX 2 - Behaviour Trees/Panda BT/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'D:/VAM Apps/Unity/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/VAM Apps/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/VAM Apps/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/VAM Apps/Unity/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000924 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 21.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.701 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.637 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.9 MB.
+System memory in use after: 72.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1592.
+Total: 1.686000 ms (FindLiveObjects: 0.206100 ms CreateObjectMapping: 0.033600 ms MarkObjects: 1.364800 ms  DeleteObjects: 0.080300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/ShooterSettings.lighting
+  artifactKey: Guid(92f4e8d14bec90d428ddc1fd4b8d3b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ShooterSettings.lighting using Guid(92f4e8d14bec90d428ddc1fd4b8d3b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'a2c295eee079a105ec03af32103f62c0') in 0.031452 seconds
+  Import took 0.033494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.791553 seconds.
+  path: Assets/Scenes/Ex 2
+  artifactKey: Guid(8296598fa5fcaf048ac49e79e856ed82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ex 2 using Guid(8296598fa5fcaf048ac49e79e856ed82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff38eaa91e47e5e5fc03cdd6e946b25') in 0.004921 seconds
+  Import took 0.010465 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
